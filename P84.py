@@ -1,5 +1,3 @@
-import heapq
-
 __author__ = 'Mihai'
 
 from random import randint
